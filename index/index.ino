@@ -1,7 +1,11 @@
-float cm, Height;
+float cm;
+int TrigPin = 2,
+    EchoPin = 3;
 
 void setup(){
   Serial.begin(9600);
+  pinMode(TrigPin, OUTPUT); //设置Pin口模式
+  pinMode(EchoPin, INPUT);
 }
 
 void loop(){
