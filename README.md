@@ -1,5 +1,5 @@
 # Re-Height-Measurement
-## 由于客户(数据删除)要求，[原身高测量项目](https://github.com/zyarduino/Height-measurement)需要极度精简，于是就有了这个神奇的项目
+### 由于客户(数据删除)要求，[原身高测量项目](https://github.com/zyarduino/Height-measurement)需要极度精简，于是就有了这个神奇的项目
 
 ---
 
@@ -19,6 +19,7 @@
 ## 使用方法
 
 该项目不需要任何串口监视器，你需要 VB
+
 我们做的就是老师一上手就能教学生
 
 ---
